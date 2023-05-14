@@ -25,7 +25,7 @@ To customize and deploy the tenant landing page for your web application, follow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-app-tenant-landing-page.git
+   git clone https://github.com/mikias-tulu/tenant-landing-page-web-app.git
 
 
  2. Modify the HTML, CSS, and JavaScript files according to your branding and content requirements.
