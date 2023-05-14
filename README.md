@@ -1,9 +1,9 @@
 # Tenant-Landing-Page-Web-App 
-contains the code and assets for the tenant landing page of our web application. It serves as the entry point for tenants, providing information and features of our application. The repository includes HTML, CSS, JavaScript, and other necessary assets for building and customizing the landing page.
+This repository contains the frontend code and assets for the tenant landing page of our multi-tenant based SaaS web application. The tenant landing page serves as the entry point for tenants, providing information about our application's features, benefits, and how to sign up or log in. It showcases the value proposition of our SaaS solution and aims to attract and engage potential users.
+
 
 ## Description
-
-The tenant landing page serves as the entry point for tenants, providing information and features of our web application. It aims to showcase the benefits and value of our application to potential users. The landing page includes engaging content, intuitive navigation, and compelling visuals to attract and retain users.
+Contains the code and assets for the tenant landing page of our web application. It serves as the entry point for tenants, providing information and features of our application. The repository includes HTML, CSS, JavaScript, and other necessary assets for building and customizing the landing page.
 
 ## Features
 
